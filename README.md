@@ -13,5 +13,7 @@
 - 💻 Backend in Python on top of Microservices Architecture in Docker. Competent in frontend using React JS and mobile development in Android.
 - 📫 If you are interested in working with me or anything similar, feel free to get in touch.
 - 🌐 Check my [<img height="12" src="https://marcvila.me/assets/favicon.ico"> website](https://marcvila.me/about/) for up-to-date information.
+- 🏃 Running, 🚴 Cycling, ⚽ Futsal, ⛅ Meteo.
+- 🐢 _Trachemys scripta elegans_ + _Trachemys scripta scripta_. 🦜 _Nymphicus hollandicus (normal-grey)_.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=laquay&count_private=true)
