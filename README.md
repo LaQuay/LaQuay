@@ -9,17 +9,15 @@
 
 #### Software Engineer based in Barcelona. PhD + MSc + BSc in Computer Science.
 
-💻 Team Lead and Senior Software Engineer at [<img height="12" src="https://pbs.twimg.com/profile_images/803554299838074880/lclvYZYQ_200x200.jpg"> Worldsensing](https://www.worldsensing.com).
-<br />
-🌱 PhD in Computer Science at [<img height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_UPC.svg/1200px-Logo_UPC.svg.png"> Universitat Politécnica de Catalunya](https://computing.phd.upc.edu/en/phd-data) and [<img height="12" src="https://pbs.twimg.com/profile_images/803554299838074880/lclvYZYQ_200x200.jpg"> Worldsensing](https://www.worldsensing.com) (Industrial part). <br /> Research Topic: [Monitoring physical infrastructures using Internet of Things devices, Semantics and Microservices Architectures](https://marcvila.me/research/).
-<br />
-🔭 Owner of [<img height="12" src="https://pbs.twimg.com/profile_images/1247827338173108224/WfwOfmX4_200x200.jpg"> TDTChannels](https://marcvila.me/projects/1-tdtchannels). Co-leading [<img height="12" src="https://pbs.twimg.com/profile_images/1243254137975967745/jaZdLw0__200x200.png"> Ruedoeneléctrica](https://marcvila.me/projects/3-ruedoenelectrica) and [<img height="12" src="https://pbs.twimg.com/profile_images/452053336749903872/q96L6mmS_200x200.png"> CatalunyaMeteo](https://marcvila.me/projects/2-catalunya-meteo).
+🌎 Software Engineer & Team Leader at [<img height="12" src="https://pbs.twimg.com/profile_images/803554299838074880/lclvYZYQ_200x200.jpg"> Worldsensing](https://www.worldsensing.com).  
+🎓 PhD 'Cum Laude' in Computer Science from the [<img height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_UPC.svg/1200px-Logo_UPC.svg.png"> Universitat Politécnica de Catalunya](https://computing.phd.upc.edu/en/phd-data), with International mention and Industrial mention. <br /> Research Topic: [Monitoring physical infrastructures using Internet of Things devices, Semantics and Microservices Architectures](https://marcvila.me/research/).  
+🏢 Founder of [<img height="12" src="https://pbs.twimg.com/profile_images/1247827338173108224/WfwOfmX4_200x200.jpg"> TDTChannels](https://marcvila.me/projects/1-tdtchannels), an online platform to watch television and listen the radio, for free!  
+🏢 Co-leading [<img height="12" src="https://pbs.twimg.com/profile_images/1243254137975967745/jaZdLw0__200x200.png"> Ruedoeneléctrica](https://marcvila.me/projects/3-ruedoenelectrica) and [<img height="12" src="https://pbs.twimg.com/profile_images/452053336749903872/q96L6mmS_200x200.png"> CatalunyaMeteo](https://marcvila.me/projects/2-catalunya-meteo).
 <br /><br />
 💻 Python / FastAPI / Docker / Android / React / Typescript / JS / Flask / ...
 <br />
 <br />
-🌎 You can learn more about me at [marcvila.me](https://marcvila.me/)
-<br />
+🌎 You can learn more about me at [marcvila.me](https://marcvila.me/)  
 📫 If you are interested in working with me or anything similar, feel free to get in touch.
 <br />
 
